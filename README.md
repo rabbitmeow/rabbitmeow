@@ -17,6 +17,6 @@ Currently working as Web Developer at [Gamatechno](https://gamatechno.com), but 
 ## Reach me
 
 - Web : [https://gavinda.dev](https://gavinda.dev)
-- Twitter : [@gavinda_dev](https://twitter.com/gavinda_dev)
+- Twitter : [@vinbyte](https://twitter.com/vinbyte)
 - Email : [hai[at]gavinda.dev](mailto:hai@gavinda.dev)
-- Linkedin : [https://linkedin.com/in/gavinda](https://linkedin.com/in/gavinda)
+- Linkedin : [https://linkedin.com/in/vinbyte](https://linkedin.com/in/vinbyte)
