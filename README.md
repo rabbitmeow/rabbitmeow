@@ -6,13 +6,13 @@ Currently working as Web Developer at [Gamatechno](https://gamatechno.com), but 
 
 ## Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rabbitmeow&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinbyte&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Gavinda's Github Stats](https://github-readme-stats.vercel.app/api?username=rabbitmeow&show_icons=true)
+![Gavinda's Github Stats](https://github-readme-stats.vercel.app/api?username=vinbyte&show_icons=true)
 
 ## Recent Medium Post
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@gavindakinandana/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@gavindakinandana/0" alt="Recent Article 0"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vinbyte/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vinbyte/0" alt="Recent Article 0"></a>
 
 ## Reach me
 
