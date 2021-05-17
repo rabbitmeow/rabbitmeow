@@ -2,7 +2,7 @@
 
 Hi, You can call me Gavin.
 
-Currently working as Web Developer at [Gamatechno](https://gamatechno.com), but more often works as a Backend Enginer. Im write codes in 3 main programming language, Go, PHP and Javascript. As a fast learner, Im very curious about learning new tech, especially in Backend tech stack. Also love solving programming or engineering problem. So, let's collaborate and make something impactful.
+Currently working as Backend Engineer at [Evermos](https://evermos.com). Im write codes in 3 main programming language, Go, PHP and Javascript. As a fast learner, Im very curious about learning new tech, especially in Backend tech stack. Also love solving programming or engineering problem. So, let's collaborate and make something impactful.
 
 ## Stats
 
