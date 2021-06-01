@@ -25,6 +25,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Mencoba Linear Regression di Golang](https://medium.com/@vinbyte/mencoba-linear-regression-di-golang-c5c38816057b?source=rss-a26f24efdc09------2)
+- [Error MySQL Tipe Data ‘Time’ di Golang](https://medium.com/@vinbyte/error-mysql-tipe-data-time-di-golang-254ee291f601?source=rss-a26f24efdc09------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
